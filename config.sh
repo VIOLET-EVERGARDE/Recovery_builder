@@ -1,9 +1,9 @@
 #!/bin/bash env
 
 # about the custom recovery
-export NAME="Pterodon" # supported: pbrp, shrp, twrp
-export MANIFEST="https://github.com/PterodonRecovery/manifest.git" # the link of manifest
-export BRANCH="master" # the branch of manifest
+export NAME="pbrp" # supported: pbrp, shrp, twrp
+export MANIFEST="https://github.com/PitchBlackRecoveryProject/manifest_pb.git" # the link of manifest
+export BRANCH="android-9.0" # the branch of manifest
 
 # about your device
 export DEVICE="CPH2083" # codename used in device tree
